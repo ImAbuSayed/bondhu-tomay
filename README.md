@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bondhu-tomay/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Bondhu Tomay](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bondhu-tomay/) |
+| **Get License** | [Get a Licensing Quote for Bondhu Tomay](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bondhu-tomay/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এই রাতের ভিড়ে তোমায় খুঁজি আমি
+> অন্ধকারে চাঁদের আলোয় তোমার ছবি আঁকি
+> নীরব এই মনের ভেতর তোমারই বসবাস
+> জ্বলছে বুকে প্রেমের আগুন দীর্ঘশ্বাস
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
